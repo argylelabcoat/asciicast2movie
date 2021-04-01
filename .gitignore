@@ -2,3 +2,5 @@ __pycache__/
 *.egg-info/
 build/
 dist/
+.direnv/**
+*.mp4
